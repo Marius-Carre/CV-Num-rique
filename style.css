@@ -1,0 +1,50 @@
+body{
+    font-family: 'DM Sans', sans-serif;
+    border: black;
+}
+
+nav {
+
+    background-color: #B0B4B4;
+}
+
+/* Header */
+
+.cont_header {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    text-align: center;
+    
+}
+
+#carre {
+    height: 70px;
+    width: 70px;
+    background: red;
+    border-style:double ;
+    
+}
+
+#Marius {
+    background-color: #04AA6D;
+  }
+
+
+
+
+/* Main */
+
+.h1 {
+
+    
+}
+
+
+
+
+
+    /*MEDIA QUERY ORDINATEUR*/
+@media only screen and (min-width: 1100px) {
+    
+ }
